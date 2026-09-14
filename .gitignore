@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+faiss_index.bin
+chunks.json
+query_log.csv
+company_docs/
